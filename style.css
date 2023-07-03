@@ -8,4 +8,7 @@
     height: 100vh;
     background-size: cover;
     width: 30%;
+    position: relative;
+    left: 35%;
 }
+
