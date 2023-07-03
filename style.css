@@ -1,16 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;300&display=swap');
-
-body {
-    font-family: 'Roboto Slab', serif;
-    font-weight: 300;
-    background: #181818;
-    color: gainsboro;
-    overflow: hidden;
+.container{
+    display: flex;
+    justify-content: center;
+    background-image: url("./img/backround_img.jpg");
 }
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
