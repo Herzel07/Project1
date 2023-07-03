@@ -1,5 +1,14 @@
+.main-container{
+    width: 100vh;
+}
 .container{
     display: flex;
     justify-content: center;
     background-image: url("./img/backround_img.jpg");
+    height: 100vh;
+    background-size: cover;
+    width: 30%;
+    position: relative;
+    left: 35%;
 }
+
