@@ -35,3 +35,11 @@ input{
     border-radius: 5px;
     outline: none;
 }
+button{
+    background-color: white;
+    border: 50px;
+    color: black;
+    width: 50%;
+    height: 30px; 
+
+}
