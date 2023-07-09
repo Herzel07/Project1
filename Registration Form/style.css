@@ -39,4 +39,23 @@ body{
     align-items: center;
 }
 
-.
+.wrapper .form .input_field label{
+    width: 200px;
+    color: #757575;
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+.wrapper .form .input_field .input,
+.wrapper .form .input_field .textarea{
+    width: 100%;
+    outline: none;
+    border: 2px solid #d5dbd9;
+    font-size: 12px;
+    padding: 6px 8px;
+    border-radius: ;
+    transition: all 0.3s ease;
+}
+    .wrapper .form .input_field .input{
+        resize: none;
+    }
