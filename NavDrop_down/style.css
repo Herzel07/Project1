@@ -16,6 +16,8 @@
     float: left;
     width: 217px;
 }
-.navbar{
+.navbar ul li a{
     color: violet;
+    text-decoration: none;
+    line-height: 50px
 }
