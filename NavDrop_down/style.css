@@ -1,28 +1,27 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-
 }
 body{
     background-color: azure;
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
-    
 }
 .navbar{
     width: 80px;
-    height: 50px;
     margin: 20px;
+    
 }
 .navbar ul{
     list-style-type: none;
+    display: inline-flex;
 }
 .navbar ul li{
+
     float: left;
-    width: 50px;
-    padding: 5px;
+    width: 120px;
+    margin: 15px;
 }
 .navbar ul li a{
     color: violet;
@@ -44,11 +43,11 @@ body{
 .sub-menu-1{
     display: none;
 }
-.navbar ul li :hover .sub-menu-1 ul li
+.navbar ul li :hover .navbar ul li
 {
-    display: block;
-    position: absolute;
-    background: rgb(0,100,0);
-    margin-top: 15px;
-    margin-left: 15px;
+        display: block;
+        position: absolute;
+        background: rgb(0,100,0);
+        margin-top: 15px;
+        margin-left: 15px;
 }
