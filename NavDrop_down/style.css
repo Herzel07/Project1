@@ -2,27 +2,31 @@
     margin: 0;
     padding: 0;
 }
+
 body{
     background-color: azure;
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
 }
+
 .navbar{
     width: 80px;
     margin: 20px;
-    
 }
+
 .navbar ul{
     list-style-type: none;
     display: inline-flex;
 }
+
 .navbar ul li{
 
     float: left;
     width: 120px;
     margin: 15px;
 }
+
 .navbar ul li a{
     color: violet;
     text-decoration: none;
@@ -38,16 +42,9 @@ body{
 .navbar ul li a{
     text-decoration: none;
     color: rgb(214, 102, 190);
+   
 }
 
 .sub-menu-1{
     display: none;
-}
-.navbar ul li :hover .navbar ul li
-{
-        display: block;
-        position: absolute;
-        background: rgb(0,100,0);
-        margin-top: 15px;
-        margin-left: 15px;
 }
