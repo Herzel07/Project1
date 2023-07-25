@@ -22,3 +22,9 @@ body{
     justify-content: center;
     background: whitesmoke;
 }
+
+.Sticky-note{
+    width: 20%;
+    position: relative;
+    padding: 0 30px;
+}
