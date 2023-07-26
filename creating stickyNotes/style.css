@@ -40,6 +40,16 @@ body{
     color: blueviolet;
     z-index: 1;
 }
+.Sticky-note .pinned i:after{
+    content: "\f08d";
+    font-family: 'fontawesome';
+    position: absolute;
+    top: 12px;
+    left: 16px;
+    transform: rotate(55deg);
+    font-size: 1em;
+    filter: blur(4.5px);
+}
 
 
 
