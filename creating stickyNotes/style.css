@@ -28,4 +28,18 @@ body{
     position: relative;
     padding: 0 30px;
 }
+.Sticky-note .pinned{
+    position: relative;
+}
+.Sticky-note .pinned i{
+    position: absolute;
+    bottom: -15px;
+    letter-spacing: 50%;
+    transform: translateX(-50%) rotate3d(1,1,1,45deg);
+    font-size: 3em;
+    color: blueviolet;
+    z-index: 1;
+}
+
+
 
