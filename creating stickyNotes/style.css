@@ -42,14 +42,17 @@ body{
 }
 .Sticky-note .pinned i:after{
     content: "\f08d";
-    font-family: 'fontawesome';
+    font-family: 'fontAwesome';
     position: absolute;
     top: 12px;
     left: 16px;
     transform: rotate(55deg);
     font-size: 1em;
+    color: azure-;
     filter: blur(4.5px);
 }
+
+.date-box
 
 
 
