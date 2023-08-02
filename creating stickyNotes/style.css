@@ -80,7 +80,19 @@ body{
     box-shadow: 2px 2px 18px rgba(0,0,0.5);
 }
 
-.date{
+.date-box .date{
+display: inline-block;
+font-weight: bold;
+font-size: 1.3em;
+padding: 10px 0;
+
+}
+
+.date-box .icon{
+    padding: 10px 0;
+}
+
+.date-box .icon img{
     
 }
 
