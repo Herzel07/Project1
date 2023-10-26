@@ -94,8 +94,27 @@ padding: 10px 0;
 }
 
 .date-box .icon img{
+    width: 50px;
+    height: 50px;
     
 }
+.content{
+    background: #fff;
+    padding: 10px;
+    box-shadow: -1px 4px 16px 0px rgba(0,0,0,.5);
+}
+.content .heading{
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #666;
+    padding-bottom: 5px;
+}
+.content .content-text{
+    color: #666;
+    font-size: 16px;
+    text-align: unset;
+}
+
 
 
 
