@@ -37,7 +37,7 @@ body{
     left: 50%;
     transform: translateX(-50%) rotate3d(1, 1, 1, 45deg);
     font-size: 3em;
-    color: blueviolet;
+    color: rgb(2, 2, 2);
     z-index: 1;
 }
 .Sticky-note .pinned i:after{
@@ -48,7 +48,7 @@ body{
     left: 16px;
     transform: rotate(55deg);
     font-size: 1em;
-    color: violet;
+    color: rgb(34, 30, 30);
     filter: blur(4.5px);
 }
 
