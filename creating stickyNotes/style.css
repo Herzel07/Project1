@@ -59,9 +59,23 @@ body{
     border-bottom-right-radius: 25px;
     overflow: hidden;
     box-shadow: 29px 34px 36px -26px rgba(0,0,0,.5);
+  
+}
+.Sticky-note.one .date-box{
     background: violet;
 }
 
+.Sticky-note.two .date-box{
+    background: grey;
+}
+
+.Sticky-note.three .date-box{
+    background:red;
+}
+
+.Sticky-note.four .date-box{
+    background: palevioletred;
+}
 .date-box:before,.date-box:after{
     content: '';
     position: absolute;
