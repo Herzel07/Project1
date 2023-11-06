@@ -30,13 +30,15 @@ random_margin.length)];
 
 function rotate(){
 
-    var random_rotate = ["rotate(3deg)" ]
+    var random_rotate = ["rotate(3deg)","rotate(1deg)",
+"rotate(-1deg)", "rotate(-3deg)","rotate(-5deg)","rotate(-10deg)" ];
 
-    return random_margin[Math.floor(math.random()*
-    random_margin.length)];
+    return random_rotate[Math.floor(math.random()*
+    random_rotate.length)];
 
 }
 
 function color(){
+    var random_color
 
 }
