@@ -25,6 +25,7 @@
 .logo{
     width: 150px;
     cursor: pointer;
+    position: relative;
  
 }
 
@@ -37,7 +38,7 @@
 }
  .navbar ul li a{
     text-decoration: none;
-    color:#fff;
+    color:#200c0c;
     text-transform: uppercase;
     
  }
@@ -46,7 +47,7 @@
     content: '';
     height: 3px;
     width: 0%;
-    background: #009688;
+    background: #193633;
     position: absolute;
     left: 0;
     bottom: -10px;
@@ -73,4 +74,8 @@
     margin: 20px auto;
     font-weight: 100;
     line-height: 25px;
+ }
+
+ .button{
+
  }
