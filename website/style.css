@@ -31,14 +31,13 @@
 
 .navbar ul li{
     list-style: none;
-    display: inline-block;
     margin: 0 20px;
-    position: relative;    
-
+    position: relative;
+    display: inline-block;    
 }
  .navbar ul li a{
     text-decoration: none;
-    color:#f6c1c1;
+    color:#996e6e;
     text-transform: uppercase;
     
  }
