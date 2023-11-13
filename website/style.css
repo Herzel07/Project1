@@ -50,12 +50,12 @@
  }
 
  button{
-    width: 200px;
-    padding: 15px 0;
+    width: 300px;
+    padding: 10px 0;
     text-align: center;
-    margin: 20px 10px;
+    margin: 20px 20px;
     border-radius: 25px;
-    font-weight: bold;
+    font-weight: lighter;
     border: 2px solid#9fd0cb;
     background: transparent;
     color: #432f2f;
@@ -68,7 +68,7 @@
     background: #9ac9c4;
     width: 0%;
     height: 100%;
-    border-radius: 25px;
+    border-radius: 20px;
     position: absolute;
     left: 0;
     bottom: 0;
