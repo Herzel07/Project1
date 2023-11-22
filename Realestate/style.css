@@ -17,4 +17,17 @@
     --second-color: #e39898;
     --text-color: #aa4f4f;
     --bg-color: #331919;
+
+    /* Box Shadow */
+--box-shadow: 2px 2px 18px rgb(14 52 54/ 15%);
 }
+
+img{
+    width: 100%;
+}
+
+body{
+    color: var(--text-color);
+}
+
+
