@@ -2,4 +2,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Poppins:wght@400;500;600;700&display=swap');
 *{
     font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    scroll-padding-top: 4rem;
+    list-style: none;
+    text-decoration: none;
+
+}
+/*Variables*/
+:root{
+    --main-color: pink;
+    --second-color: #e39898;
+    --text-color: #aa4f4f;
+    --bg-color: #331919;
 }
