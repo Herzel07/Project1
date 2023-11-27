@@ -13,13 +13,13 @@
 }
 /*Variables*/
 :root{
-    --main-color: pink;
-    --second-color: #e39898;
-    --text-color: #aa4f4f;
-    --bg-color: #331919;
+    --main-color: #3492fd;
+    --second-color: #3d5454;
+    --text-color: #5fa4aa;
+    --bg-color: #7899ad;
 
     /* Box Shadow */
---box-shadow: 2px 2px 18px rgb(14 52 54/ 15%);
+--box-shadow: 2px 2px 18px rgba(20, 3, 3, 0.15);
 }
 
 img{
@@ -79,6 +79,24 @@ header{
 }
 .navbar a:hover{
     color: var(--main-color);
+}
+
+#menu-icon{
+    font-size: 24px;
+    cursor: pointer;
+    display: none;
+
+}
+#menu{
+    display: none;
+}
+.btn{
+    padding: 8px 21px;
+    background: var(--main-color);
+}
+
+.btn:hover{
+    background: #3492fd;
 }
 
 
