@@ -88,9 +88,11 @@ header{
     display: none;
 
 }
+
 #menu{
     display: none;
 }
+
 .btn{
     padding: 8px 21px;
     background: var(--main-color);
