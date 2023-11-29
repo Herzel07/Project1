@@ -11,6 +11,7 @@
     text-decoration: none;
 
 }
+
 /*Variables*/
 :root{
     --main-color: #3492fd;
@@ -99,7 +100,7 @@ header{
 }
 
 .btn:hover{
-    background: #3492fd;
+    background: #000307;
 }
 
 
