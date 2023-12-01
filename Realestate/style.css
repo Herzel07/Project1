@@ -25,15 +25,17 @@
 }
 
 img{
-    
+
     width: 100%;
 }
 
 body{
+
     color: var(--text-color);
 }
 
 .container{
+
     max-width: 1067px;
     margin-left: auto;
     margin-right: auto;
@@ -50,6 +52,7 @@ header{
 }
 
 .nav{
+
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -68,6 +71,7 @@ header{
 }
 
 .logo .bx{
+
     font-size: 24px;
     color: var(--main-color);
 }
@@ -82,10 +86,12 @@ header{
 }
 
 .navbar a:hover{
+
     color: var(--main-color);
 }
 
 #menu-icon{
+
     font-size: 24px;
     cursor: pointer;
     display: none;
@@ -93,15 +99,18 @@ header{
 }
 
 #menu{
+
     display: none;
 }
 
 .btn{
+
     padding: 8px 21px;
     background: var(--main-color);
 }
 
 .btn:hover{
+    
     background: #000307;
 }
 
