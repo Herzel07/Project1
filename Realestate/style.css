@@ -107,10 +107,12 @@ header{
 
     padding: 8px 21px;
     background: var(--main-color);
+    color: var(--bg-color);
+    border-radius: 5rem;
 }
 
 .btn:hover{
-    
+
     background: #000307;
 }
 
