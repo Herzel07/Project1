@@ -18,7 +18,7 @@
     --main-color: #3492fd;
     --second-color: #3d5454;
     --text-color: #5fa4aa;
-    --bg-color: #7899ad;
+    --bg-color: #476e86;
 
     /* Box Shadow */
 --box-shadow: 2px 2px 18px rgba(20, 3, 3, 0.15);
@@ -32,6 +32,10 @@ img{
 body{
 
     color: var(--text-color);
+}
+
+section{
+    padding: 4.5rem 0 3rem;
 }
 
 .container{
@@ -115,7 +119,11 @@ header{
 
     background: #000307;
 }
-
+/* Home */
+.home{
+    margin-top: 5rem;
+    background: url(home.png);
+}
 
 
 
