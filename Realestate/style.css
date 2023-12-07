@@ -185,6 +185,12 @@ header{
     
 }
 
+.sales .box:hover{
+    background: var(--main-color);
+    color: var(--bg-color);
+    transition: 0.5s all linear;
+}
+
 
 
 
