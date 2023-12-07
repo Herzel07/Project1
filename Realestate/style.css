@@ -126,8 +126,8 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 440px;
-    border-radius: 1.5rem;
+    height: 500px;
+    border-radius: 1.3rem;
     display: flex;
     align-items: center;
 }
@@ -141,6 +141,33 @@ header{
     font-size: 2rem;
     margin-bottom: 1rem;
 
+}
+
+.about{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(18rem, auto));
+    gap: 3rem;
+}
+
+.about-img img{
+    border-radius: 2rem 0 3rem 3rem;
+}
+
+.about-text span{
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: var(--main-color);
+}
+
+.about-text h2{
+    font-size: 1.8rem;
+
+}
+
+.about-text p{
+    font-size: 0.938rem;
+    margin: 1rem 0 1rem;
 }
 
 
