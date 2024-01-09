@@ -5,6 +5,7 @@
     font-family: 'Kumbh Sans', sans-serif;
 }
 .navbar{
+
     background: #121214;
     height: 80px;
     display: flex;
@@ -17,6 +18,7 @@
 }
 
 .navbar__container{
+    
     display: flex;
     justify-content: space-between;
     height: 80px;
@@ -28,7 +30,7 @@
 }
 
 #navbar__logo{
-    
+
     background-color: blueviolet;
     background-image: linear-gradient(to top, red 0% rgb(226, 126, 143) 100%);
     -webkit-background-clip: text;
