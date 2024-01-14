@@ -111,7 +111,7 @@
 
 .button:hover{
 
-    background: blueviolet;
+    background: rgb(161, 88, 230);
     transition: all 0.3s ease;
 
 }
