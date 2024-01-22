@@ -117,6 +117,7 @@
 }
 
 @media screen and (max-width: 960px) {
+    
 .navbar__container{
 
     display: flex;
@@ -216,7 +217,7 @@
 }
 
 #mobile-menu.is-active .bar:nth-child(3){
-    
+
     transform: translate(-8px) rotate(-43deg);
 }
 
