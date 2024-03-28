@@ -18,10 +18,10 @@
         </fieldset>
         <fieldset>
           <fieldset>
-            <label>Add a profile picture: <input type="file"></input></label>
-            <label>Input your age (years): <input type="number" min="13" max="100"></input></label>
-            <label>How did you hear about us?
-            <select>
+            <label for="profile-picture">Add a profile picture: <input id="profile-picture"type="file"></input></label>
+            <label for="age">Input your age (years): <input id="age" type="number" min="13" max="100"></input></label>
+            <label for="referrer">How did you hear about us?
+            <select id="referrer">
               <option value="">(Select one)</option>
               <option value="1">social media</option>
               <option value="2">News</option>
@@ -29,7 +29,9 @@
               <option value="4">other</option>
             </select>
             </label>
-            <label>Provide a bio:<textarea></textarea></label>
+            <label for="bio">Provide a bio:
+              <textarea id="bio"></textarea>
+            </label>
           </fieldset>
         </fieldset>
         <legend>Account type (required)</legend>
