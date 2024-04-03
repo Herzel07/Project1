@@ -24,10 +24,17 @@ label{
   }
 
   form {
-    
+
     margin: 0 auto;
     max-width: 500px;
     min-width: 300px;
     width: 60vw; 
   
+  }
+  
+  fieldset{
+    padding: 0;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border: 0 none;
   }
