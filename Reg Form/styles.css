@@ -39,5 +39,9 @@ label{
     padding-top: 2rem;
     padding-bottom: 2rem;
     border: 0 none;
-    
+    border-bottom: 3px solid #3b3b4f;
+  }
+
+  fieldset:last-of-type{ 
+    border-bottom: none;
   }
