@@ -55,5 +55,7 @@ label{
 .inline {
   width: unset;
   margin: 0 0.5em 0 0;
-
+  vertical-align: middle;
+  border: 1px solid #0a0a50;
+  background-color: #0a0a50;
 }
