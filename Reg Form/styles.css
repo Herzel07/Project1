@@ -67,7 +67,7 @@ input, textarea{
   color: #f5f6f7;
 }
 
-input[style="submit"]{
+input[type="submit"]{
 
   display: block;
   width: 60%;
@@ -77,4 +77,10 @@ input[style="submit"]{
   font-size: 1.2rem;
   background-color: #3b3b4f;
   border-color: #f5f6f6;
+}
+
+input[type="file"]{
+
+  padding: 1em 2em;
+  
 }
