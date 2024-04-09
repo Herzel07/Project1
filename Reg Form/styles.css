@@ -66,3 +66,10 @@ input, textarea{
   background-color: #0a0a50;
   color: #f5f6f7;
 }
+
+input[style="submit"]{
+
+  display: block;
+  width: 60%;
+  
+}
