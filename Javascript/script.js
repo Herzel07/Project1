@@ -27,5 +27,5 @@ function goCave() {
 }
 
 function fightDragon() {
-    console.log("Fighting dragon.")
+    console.log("Fighting dragon.");
 }
