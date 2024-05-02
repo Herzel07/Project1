@@ -29,11 +29,11 @@ function goStore(){
         button1.onclick = buyHealth;
         button2.onclick = buyWeapon;
         button3.onclick = goTown;
-        text.innerText = "You enter the store."
+        text.innerText = "You enter the store.";
         }
 
 function goCave() {
-    console.log("GOING to cave.");
+    console.log("Going to cave.");
 }
 
 function fightDragon() {
