@@ -20,7 +20,12 @@ const locations = [];
 
 const cat = {
     name: "Whiskers",
+    legs: "4",
 }
+
+const cat = {
+    Number of legs: "4",
+};
 console.log(cat)
 
 // initialize buttons
