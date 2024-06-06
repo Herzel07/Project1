@@ -39,6 +39,7 @@ function update(location){
 
 }
 function goTown() {
+    
     button1.innerText = "Go to store";
     button2.innerText = "Go to cave";
     button3.innerText = "Fight dragon";
