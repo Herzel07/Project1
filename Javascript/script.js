@@ -19,6 +19,7 @@ const monsterHealthText = document.querySelector("#monsterHealth");
 const locations = [];
 
 const cat = {
+    
     name: "Whiskers",
     legs: "4",
 }
@@ -26,7 +27,7 @@ const cat = {
 const cat = {
 
     Number of legs: "4",
-};
+}
 
 console.log(cat)
 
@@ -39,7 +40,7 @@ function update(location){
 
 }
 function goTown() {
-    
+
     button1.innerText = "Go to store";
     button2.innerText = "Go to cave";
     button3.innerText = "Fight dragon";
