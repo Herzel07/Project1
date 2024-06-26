@@ -39,6 +39,7 @@ button3.onclick = fightDragon;
 function update(location){
 
 }
+
 function goTown() {
 
     button1.innerText = "Go to store";
