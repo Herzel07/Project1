@@ -26,7 +26,7 @@ const cat = {
 
 const cat = {
 
-    Number of legs: "4",
+   Number of legs: "4",
 }
 
 console.log(cat)
