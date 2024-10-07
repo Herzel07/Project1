@@ -25,6 +25,7 @@ const cat = {
 }
 
 const cat = {
+    
 
    Number of legs: "4",
 }
